@@ -34,7 +34,18 @@
 """
 # Problem 3
 """
-Your solution goes here
+1.True and False, valid, evaluates to False because of the truth table.
+2. 5 > 3 or "apple" < "banana", valid, evaluates to True because of the truth table.
+3. not 10 <= 20, valid, is False since 10 <= 20 is True, and not True is False.
+4. True or 5 = 4, not valid, 5 = 4 should use "==" instead.
+5. "apple" != "orange" and 5, not valid, doesn't evaluate.
+6. 3 < 5 not True, not valid, missing logical opperator.
+7. False == (3 > 4), valid, evaluates to true.
+8. 10 <= "10", not valid, can't compare each other.
+9. True or not False, valid, not False is True and True or True evaluates to True
+10. 5 and or 4, not valid, can't have multiple logical opperators next to each other.
+
+
 
 
 """
