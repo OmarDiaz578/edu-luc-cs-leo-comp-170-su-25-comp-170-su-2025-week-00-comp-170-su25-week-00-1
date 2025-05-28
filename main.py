@@ -4,9 +4,16 @@
 # Problem 1
 """
 1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
-Your solution goes here
+2. 2nd_name, is not a valid name in python as it starts with a number. 
+3. age, is a valid name in python
+4. total_amount
+5. while
+6. Student
+7. my-variable
+8. for
+9. _temp
+10. value#
+
 
 
 """
