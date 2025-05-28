@@ -5,14 +5,14 @@
 """
 1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
 2. 2nd_name, is not a valid name in python as it starts with a number. 
-3. age, is a valid name in python
-4. total_amount
-5. while
-6. Student
-7. my-variable
-8. for
-9. _temp
-10. value#
+3. age, is a valid name in python as it is alphaneumerical.
+4. total_amount, is a valid name in python as it is snake case.
+5. while, is not a valid name in python as it is a reserved word.
+6. Student, is a valid name as it's alphaneumerical.
+7. my-variable, is not a valid name in python as it cotains a special chracter.
+8. for, is not a valid name in python as it is a reserved word.
+9. _temp, is a valid name in python but leading with an underscore should be avoided unless necessary.
+10. value#, is not a valid name in python as it contains a special character.
 
 
 
