@@ -15,11 +15,20 @@
 10. value#, is not a valid name in python as it contains a special character.
 
 
-
 """
 # Problem 2
 """
-Your solution goes here
+1. calculate_total, is a valid name in python, because it is snake case.
+2. 3rd_function, is not a valid name in python as it starts with a number.
+3. print_values, is a valid name in python, because it is snake case.
+4. find-item, is not a valid name in python as it cotains a special chracter.
+5. def, is not a valid name in python as it is a reserved word.
+6. updateProfile, is a valid name in python as it is alphaneumerical.
+7. my_function, is a valid name in python, because it is snake case.
+8. try, is a valid name in python as it is alphaneumerical.
+9. init_data, is a valid name in python, because it is snake case.
+10. value@function, is not a valid name in python as it contains a special character.
+
 
 
 """
