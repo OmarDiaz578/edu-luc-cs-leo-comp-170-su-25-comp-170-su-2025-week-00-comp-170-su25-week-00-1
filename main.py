@@ -45,7 +45,7 @@
 9. True or not False, valid, not False is True and True or True evaluates to True
 10. 5 and or 4, not valid, can't have multiple logical opperators next to each other.
 
-.
+
 .
 
 """
